@@ -45,6 +45,10 @@ $ pnpm run start:dev
 $ pnpm run start:prod
 ```
 
+# docker
+
+docker-compose -f docker-compose-pg.yml up -d
+
 ## Test
 
 ```bash
